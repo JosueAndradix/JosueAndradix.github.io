@@ -168,6 +168,23 @@ align-items:center
     grid-auto-flow: dense;
     }
 
+
+.botoncv{
+margin: 40px auto;
+border: #000 1px solid;
+padding: 10px;
+text-align: center;
+width: 200px;
+background: #373737;
+border-radius: 30px;
+box-shadow: 0 0 20px 0 rgba(255, 255, 255, .3);
+
+}
+
+.botoncv a{
+    text-decoration: none;
+    color: #dcd0c0;
+}
     /* SERVICIOS */
 
 
